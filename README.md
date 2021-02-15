@@ -1,4 +1,12 @@
 # XamarinPasswordManagerApp
+
+
+
+## General info
+The PasswordManagerApp project is web application written in C# using .NET Core 3.1 with ASP.NET Core MVC. This app enable users to store sensitive data in a secure way. The main feature of this app is to check if stored password has previously appeared in data breach. 
+
+The application can be developed, built and run cross-platform on Windows, and Linux distribution(*macOS not tested*).
+
 Take your safe password wallet wherever you want
 
 Features
@@ -6,12 +14,6 @@ Features
 - Secure encryption with a symmetric key from a master password that only you know
 - Check your data for compromise when adding or editing 
 - If necessary, you can share your data with another user(experimental). 
-
-
-## General info
-The PasswordManagerApp project is web application written in C# using .NET Core 3.1 with ASP.NET Core MVC. This app enable users to store sensitive data in a secure way. The main feature of this app is to check if stored password has previously appeared in data breach. 
-
-The application can be developed, built and run cross-platform on Windows, and Linux distribution(*macOS not tested*).
 
 ## Table of contents
 * [General info](#general-info)
@@ -77,37 +79,7 @@ We do not send full password hash to the external API.
 #### To run this project:
 
 
-* restore, build and run using commands:
 
-```
-cd PasswordManagerApp
-dotnet run
-```
-* type localhost:5004 in the browser
-
-
-
-## Usage
-
-#### Next move is up to you
-
-* Store any data you wish
-
-<p align="center">
-<img src="https://i.ibb.co/tpzSVRH/finalgif.gif" alt="finalgif" >
-</p>
-
-
-* Customize your profile
-<p align="center">
-<img src="https://i.ibb.co/RP38tCc/image.png" alt="profileWebvault">
-</p>
-
-* Check if your password was previously exposed in data breaches 
-
-<p align="center">
-<img src="https://i.ibb.co/F03NgvK/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker">
-</p>
 
 
 
