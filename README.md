@@ -72,9 +72,11 @@ We do not send full password hash to the external API.
 ## Setup
 ### Requirements
 
-- [.NET Core 3.1 SDK](https://www.microsoft.com/net/download/core)
+- [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
 
 #### To run this project:
+
+
 * restore, build and run using commands:
 
 ```
