@@ -3,9 +3,9 @@
 
 
 ## General info
-The PasswordManagerApp project is web application written in C# using .NET Core 3.1 with ASP.NET Core MVC. This app enable users to store sensitive data in a secure way. The main feature of this app is to check if stored password has previously appeared in data breach. 
+The PasswordManagerApp mobile version was created using Xamarin and C#. This app enable users to store sensitive data in a secure way. The main feature of this app is to check if stored password has previously appeared in data breach. 
 
-The application can be developed, built and run cross-platform on Windows, and Linux distribution(*macOS not tested*).
+The application can be developed, built and run cross-platform on Android and iOS.
 
 Take your safe password wallet wherever you want
 
