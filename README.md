@@ -80,9 +80,9 @@ We do not send full password hash to the external API.
 
 #
 <div align="center" width=50%>
-<a href="https://ibb.co/K2G5kpw"><img src="https://i.ibb.co/zX5mYTJ/Screenshot-1606384206.png" alt="Screenshot-1606384206" border="0"></a>
-<a href="https://ibb.co/f9RHLs9"><img src="https://i.ibb.co/VxyT5sx/Screenshot-2020-11-23-14-04-50-74-bd6d1f84847f3f89a5743be6b0969a04-1.jpg" alt="Screenshot-2020-11-23-14-04-50-74-bd6d1f84847f3f89a5743be6b0969a04-1" border="0"></a>
-<a href="https://ibb.co/vQhdQwz"><img src="https://i.ibb.co/5nkjnMc/Screenshot-2020-11-23-14-03-28-27-bd6d1f84847f3f89a5743be6b0969a04.jpg" alt="Screenshot-2020-11-23-14-03-28-27-bd6d1f84847f3f89a5743be6b0969a04" border="0"></a>
+<a href="https://ibb.co/K2G5kpw"><img width="119" height="51" src="https://i.ibb.co/zX5mYTJ/Screenshot-1606384206.png" alt="Screenshot-1606384206" border="0"></a>
+<a href="https://ibb.co/width="119" height="51" f9RHLs9"><img width="119" height="51" src="https://i.ibb.co/VxyT5sx/Screenshot-2020-11-23-14-04-50-74-bd6d1f84847f3f89a5743be6b0969a04-1.jpg" alt="Screenshot-2020-11-23-14-04-50-74-bd6d1f84847f3f89a5743be6b0969a04-1" border="0"></a>
+<a href="https://ibb.co/vQhdQwz"><img width="119" height="51" src="https://i.ibb.co/5nkjnMc/Screenshot-2020-11-23-14-03-28-27-bd6d1f84847f3f89a5743be6b0969a04.jpg" alt="Screenshot-2020-11-23-14-03-28-27-bd6d1f84847f3f89a5743be6b0969a04" border="0"></a>
 
 </div>
 
