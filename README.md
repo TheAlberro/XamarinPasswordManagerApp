@@ -28,12 +28,14 @@ Features
 
 ## Technologies
 
+### Major libraries
+
 * [Have I Been Pwned API](https://haveibeenpwned.com) - allows Internet users to check whether their personal data has been compromised by data breaches
 * [JSON Web Token](https://jwt.io/) - defines a compact and self-contained way for securely transmitting information between parties as a JSON object
-* [Quartz.NET](https://www.quartz-scheduler.net/) - job scheduling system
-* [SignalR](https://dotnet.microsoft.com/apps/aspnet/signalr) - library that allows server code to send asynchronous notifications to client-side web applications
 * [Otp.NET](https://www.nuget.org/packages/Otp.NET) - an implementation of TOTP
 * [Password Generator](https://www.nuget.org/packages/PasswordGenerator/) - library which generates random passwords
+* [PCLCrypto](https://www.nuget.org/packages/pclcrypto) - provides a consistent, portable set of crypto APIs, with functionality that includes asymmetric and symmetric encryption and       
+  signatures, and key derivation.
 
 ## Features
 
@@ -77,6 +79,7 @@ We do not send full password hash to the external API.
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
 
 #### To run this project:
+
 
 #
 <div align="center" width=50%>
