@@ -78,8 +78,12 @@ We do not send full password hash to the external API.
 
 #### To run this project:
 
+#
+<p align="center"> <img src="https://ibb.co/K2G5kpw/image.png" alt="imagepasscheck"></p>
 
+<p align="center"> <img src="https://ibb.co/f9RHLs9/image.png" alt="imagepasscheck"></p>
 
+<p align="center"> <img src="https://ibb.co/vQhdQwz/image.png" alt="imagepasscheck"></p>
 
 
 
